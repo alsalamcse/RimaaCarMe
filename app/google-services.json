@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "35732346571",
+    "firebase_url": "https://rimaacarme.firebaseio.com",
+    "project_id": "rimaacarme",
+    "storage_bucket": "rimaacarme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35732346571:android:19f84a3345d700c8",
+        "android_client_info": {
+          "package_name": "agha.rimaa.rimaacarme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35732346571-uuc6qo2jp0ccoq1a1652cuk420i89ns5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "agha.rimaa.rimaacarme",
+            "certificate_hash": "013f43c9a5d380c46de43c04644418dbe5d2a253"
+          }
+        },
+        {
+          "client_id": "35732346571-hu9jci7qvo2qphsv0e2v0t44mfinn1cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD2YbuvdyRldC1hzk4iSeDGSXNRlE_00w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35732346571-hu9jci7qvo2qphsv0e2v0t44mfinn1cb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
